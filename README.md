@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there! My name is Tomas Santos Yciano, and welcome to my Github!👋
+
+- Computer Science @ St. John's University
+- Discord Bot Aficionado
+- Future Full-Stack Dev
+- Fun Fact: Didn't know Java existed until I got to St. John's!
+- Check out my LinkedIn: https://www.linkedin.com/in/tomas-j-santos-y/ 
 
 <!--
-**tomassantos484/tomassantos484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
