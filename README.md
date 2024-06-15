@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/tomasjsantosy" target="blank"><img src="https://img.shields.io/twitter/follow/tomasjsantosy?logo=twitter&style=for-the-badge" alt="tomasjsantosy" /></a> </p>
 
-- 🔭 I’m currently working on [Mike Trout Discord Bot](https://github.com/tomassantos484)
+- 🔭 I’m currently working on: [Mike Trout Discord Bot](https://github.com/tomassantos484)
 
-- 🌱 I’m currently learning **AWS, GCP, TypeScript, ML/AI, Full-Stack Dev**
+- 🌱 I’m currently learning: **AWS, GCP, TypeScript, ML/AI, Full-Stack Dev**
 
-- 👯 I’m currently working on [Slack Bot](https://github.com/JustinhSE/SM-bots)
+- 👯 I’m currently working on: [Slack Bot](https://github.com/JustinhSE/SM-bots)
 
-- 🤝 I’m currently working on [AI Platform for FBLA NLC](Coming Soon...)
+- 🤝 I’m currently working on: [AI Platform for FBLA NLC](Coming Soon...)
 
-- 📝 I regularly write articles on [https://medium.com/@tomassantos484](https://medium.com/@tomassantos484)
+- 📝 I will regularly write articles (coming soon) on: [https://medium.com/@tomassantos484](https://medium.com/@tomassantos484)
 
-- 💬 Ask me about **Python, JavaScript, HTML/CSS, Discord API/Bots**
+- 💬 Ask me about: **Python, JavaScript, HTML/CSS, Discord API/Bots**
 
-- 📫 How to reach me **tomassantos484@gmail.com**
+- 📫 How to reach me: **tomassantos484@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xoC9kRe2CfDLCGt9qwucB5NyRZcE2yhY/view?usp=sharing](https://drive.google.com/file/d/1xoC9kRe2CfDLCGt9qwucB5NyRZcE2yhY/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1xoC9kRe2CfDLCGt9qwucB5NyRZcE2yhY/view?usp=sharing](https://drive.google.com/file/d/1xoC9kRe2CfDLCGt9qwucB5NyRZcE2yhY/view?usp=sharing)
 
 - ⚡ Fun fact **I'm from the Dominican Republic!**
 
