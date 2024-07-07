@@ -46,4 +46,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomassantos484&show_icons=true&theme=cobalt&text_color=fbeaea&locale=en" alt="tomassantos484" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomassantos484&theme=highcontrast" alt="tomassantos484" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomassantos484&theme=highcontrast" alt="tomassantos484" /></p> 
