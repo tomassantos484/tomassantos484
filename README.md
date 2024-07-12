@@ -13,9 +13,9 @@
 
 - 🔥 I'm currently working on: [Codetionary](https://github.com/tomassantos484/codetionary-ai-hackathon)
 
-- 🤝 I’m currently working on: [AI Platform for FBLA NLC Case Competition](Coming Soon...)
+- 🤝 I’m currently working on: [ConagraGPT](https://github.com/tomassantos484/ConagraGPT)
 
-- 🌱 I’m currently learning: **AWS, GCP, TypeScript, ML/AI, Full-Stack Dev**
+- 🌱 I’m currently learning: **AWS, GCP, ML/AI, Full-Stack Dev**
 
 - 📝 I will regularly write articles (coming soon) on: [https://medium.com/@tomassantos484](https://medium.com/@tomassantos484)
 
