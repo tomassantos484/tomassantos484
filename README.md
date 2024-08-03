@@ -9,7 +9,7 @@
 
 - 🔥 I’m currently working on: [Baseball Buddy Discord Bot](https://github.com/tomassantos484/Baseball-Buddy)
 
-- 🔥 I’m currently working on: [Personal Website](https://github.com/tomassantos484/website)
+- 🔥 I’m currently working on: [Personal Website](https://github.com/tomassantos484/tomassantos484.github.io)
 
 - 🔥 I'm currently working on: [Codetionary](https://github.com/tomassantos484/codetionary-ai-hackathon)
 
