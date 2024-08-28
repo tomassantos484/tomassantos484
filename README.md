@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning: **AWS, GCP, ML/AI, Full-Stack Dev**
 
-- 📝 I will regularly write articles (coming soon) on: [https://medium.com/@tomassantos484](https://medium.com/@tomassantos484)
+- 📝 I will regularly write articles on: [https://medium.com/@tomassantos484](https://medium.com/@tomassantos484)
 
 - 💬 Ask me about: **Python, JavaScript, HTML/CSS, Discord API/Bots**
 
