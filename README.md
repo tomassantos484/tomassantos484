@@ -7,23 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/tomasjsantosy" target="blank"><img src="https://img.shields.io/twitter/follow/tomasjsantosy?logo=twitter&style=for-the-badge" alt="tomasjsantosy" /></a> </p>
 
-- 🔥 I’m currently working on: [Baseball Buddy Discord Bot](https://github.com/tomassantos484/Baseball-Buddy)
-
-- 🔥 I’m currently working on: [NEW Personal Website](https://github.com/tomassantos484/new-personal-website)
-
-- 🔥 I'm currently working on: [Codetionary](https://github.com/tomassantos484/codetionary-ai-hackathon)
-
-- 🔥 I’m currently working on: [ConagraGPT](https://github.com/tomassantos484/ConagraGPT)
-
 - 🌱 I’m currently learning: **AWS, GCP, ML/AI, Full-Stack Dev**
 
 - 📝 View my articles here: [Medium](https://medium.com/@tomassantos484)
 
-- 💬 Ask me about: **Python, JavaScript, HTML/CSS, Discord API/Bots**
+- 💬 Ask me about: **Full-Stack Engineering**
 
 - 📫 How to reach me: **tomassantos484@gmail.com**
-
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1xoC9kRe2CfDLCGt9qwucB5NyRZcE2yhY/view?usp=sharing](https://drive.google.com/file/d/1xoC9kRe2CfDLCGt9qwucB5NyRZcE2yhY/view?usp=sharing)
 
 - Visit my [Personal Website!](https://tjsy.dev)
 
