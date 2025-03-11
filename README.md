@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tomasjsantosy" target="blank"><img src="https://img.shields.io/twitter/follow/tomasjsantosy?logo=twitter&style=for-the-badge" alt="tomasjsantosy" /></a> </p>
 
-- 🌱 I’m currently learning: **AWS, GCP, ML/AI, Full-Stack Dev**
+- 🌱 I’m currently learning: **ML/AI, Full-Stack Dev**
 
 - 📝 View my articles here: [Medium](https://medium.com/@tomassantos484)
 
