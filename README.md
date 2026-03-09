@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tomasjsantosy" target="blank"><img src="https://img.shields.io/twitter/follow/tomasjsantosy?logo=twitter&style=for-the-badge" alt="tomasjsantosy" /></a> </p>
 
-- ☁️ AWS Certified Cloud Practitioner
+- ☁️ AWS Certified Cloud Practitioner & Certified AI Practitioner
 
 - 🌱 I’m currently learning: **ML/AI, Full-Stack Dev, Cloud**
 
