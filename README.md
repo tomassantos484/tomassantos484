@@ -7,7 +7,7 @@
 
 - ☁️ AWS Certified Cloud Practitioner & Certified AI Practitioner
 
-- 🌱 I’m currently learning: **ML/AI, Full-Stack Dev, Cloud**
+- 🌱 I’m currently learning: **ML/AI, Full-Stack Dev, Cloud (AWS, Azure)**
 
 - 📝 View my articles here: [Medium](https://medium.com/@tomassantos484)
 
